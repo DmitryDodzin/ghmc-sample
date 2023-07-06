@@ -1,0 +1,26 @@
+{
+  "type": "mod",
+  "metadata": {
+    "name": "AppleSkin"
+  },
+  "loaders": {
+    "fabric": [],
+    "forge": []
+  },
+  "releases": [
+    {
+      "version": "2.5.0",
+      "game_version": "1.20.1",
+      "loader": "fabric",
+      "url": "https://github.com/squeek502/AppleSkin/releases/download/v2.5.0/appleskin-fabric-mc1.20-2.5.0.jar",
+      "sha348": "dNEI8xlCLYur+PQUUeOcey0BNh/QaQvBgn1m9ZEesbvaG4UmLG3qwnUQhmBhKYwH"
+    }, {
+      "version": "2.5.0",
+      "game_version": "1.20.1",
+      "loader": "forge",
+      "url": "https://github.com/squeek502/AppleSkin/releases/download/v2.5.0/appleskin-forge-mc1.20.1-2.5.0.jar",
+      "sha348": "oxaa7Da/yK8wxFbhTlmzrOFy9oXVs54oX+LnSUSDNNyq6rksmquBxz59rjaFQP/z"
+    }
+  ],
+  "dependencies": []
+}
